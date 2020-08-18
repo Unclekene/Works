@@ -1,0 +1,93 @@
+.cloud1{
+    width:100px;
+    height:100px;
+    position: absolute
+    top 300px
+    left 300px;
+    
+}
+.cloud2{
+    width:100px;
+    height:100px;
+    position: absolute
+    left 300px
+    bottom 50px;
+
+}.top-container{background-color: rgb(180, 127, 180)
+;
+position: relative;
+padding: 50px;
+padding-bottom: 0px;
+padding-top: 50px;
+
+}
+
+body {
+    display: block;
+    margin: 0px;
+    text-align: center;}
+    h1{font-family: 'Pacifico', cursive;
+    font-size: 50px;}
+    p{font-family: 'Pacifico', cursive;
+        font-family: 'Roboto', sans-serif;
+    font-size: 20px;}
+    }
+    .middle-container{ background-color: #f7f2e7;
+        padding-top: 80px;
+        padding-bottom: 80px;
+        padding-right: 60px;
+        padding-left: 60px;
+    }
+    .About{
+        padding-right: 80px;
+        padding-left: 80px;
+        padding-bottom: 40px;
+        font-size: 16px;
+    }
+
+    hr{width: 120px;}
+
+    .Hello{
+    color: rgb(171, 153, 189);
+    }
+
+    .bottom-container{
+        background-color:rgb(180, 127, 180)
+        
+    }
+    .Proo{
+        position: absolute;
+        right: 150px;
+        width: 250px;
+        height: 250px;
+        
+    
+
+    }
+    .log{
+        width: 290px;
+        position: absolute;
+        left: 155px;
+        padding-top: 50px;
+    }
+    .skills{ 
+        font-size: 50px;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        color: violet;
+        
+        
+    }
+    .skils2{
+        font-size: 30px;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        font-style: inherit;
+        color: black;
+    
+    }
+    .skill-row{
+        font-size: 20px;
+
+    }
+    
+
+    
